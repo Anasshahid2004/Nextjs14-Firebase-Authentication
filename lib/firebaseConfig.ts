@@ -2,7 +2,7 @@ import { getApp, getApps, initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBeZlgJdRMwcy7Hc_RYMmvawt61ud-zDPI",
+  apiKey: "",
   authDomain: "smit-batch-10-6fd8f.firebaseapp.com",
   projectId: "smit-batch-10-6fd8f",
   storageBucket: "smit-batch-10-6fd8f.appspot.com",
